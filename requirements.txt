@@ -1,4 +1,4 @@
 flask
 pymongo==3.12
 requests
-dotenv
+dnspython
