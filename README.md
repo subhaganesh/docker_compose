@@ -51,7 +51,8 @@ Open a terminal or command prompt on your local machine.
 
 Run the following command to pull the container image from Docker Hub:
 
-# docker pull subhaganesh/web-app:latest
+## docker pull subhaganesh/web-app:latest
+## docker pull subhaganesh/mongo:latest  
  use the above command for download the docker app
 
 Wait for the download to complete. Docker will retrieve the image from the Docker Hub repository.
