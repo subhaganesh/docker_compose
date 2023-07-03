@@ -43,3 +43,17 @@ Refer to the earlier section on pushing Docker Compose images for detailed instr
 
 ## conclusion
  In conclusion, Docker Compose is a valuable tool for managing multi-container applications. It simplifies the setup, deployment, and management of complex application architectures. By utilizing Docker Compose, developers can efficiently develop, test, and deploy containerized projects, enhancing productivity and scalability.
+
+## Downloading the Container Image
+To download the container image for this project, follow these steps:
+
+Open a terminal or command prompt on your local machine.
+
+Run the following command to pull the container image from Docker Hub:
+
+# docker pull subhaganesh/web-app:latest
+ use the above command for download the docker app
+
+Wait for the download to complete. Docker will retrieve the image from the Docker Hub repository.
+
+Once the image is downloaded, you can use it to run the container locally on your machine.
