@@ -58,3 +58,10 @@ Run the following command to pull the container image from Docker Hub:
 Wait for the download to complete. Docker will retrieve the image from the Docker Hub repository.
 
 Once the image is downloaded, you can use it to run the container locally on your machine.
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://subhaganesh.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhaganesh-s-170875236/)
+
+
+
